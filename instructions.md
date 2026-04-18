@@ -7,13 +7,12 @@ title: Instructions
 
 ### How to Change a Mazda CX-5 Key Fob Battery  
 
-Materials:  
+##### Materials: 
 CR2025 or CR2032 3V lithium coin battery  
 Small flathead screwdriver  
 
 
-Steps:  
-  
+##### Steps:  
 Step 1: Slide the small black knob on the silver underside of the key to open the front black panel of the key fob  
 
 <p align="center">
