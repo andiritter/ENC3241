@@ -5,8 +5,7 @@ title: Cover Letter
 
 # Cover Letter
 
-Andrea Ritter
-
+Andrea Ritter  
 4000 Central Florida Boulevard
 
 Orlando, FL 32816
