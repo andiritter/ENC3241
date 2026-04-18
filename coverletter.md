@@ -4,7 +4,9 @@ title: Cover Letter
 ---
 
 # Cover Letter
-*This cover letter was written as a sample professional document for ENC3241: Writing for the Technical Profession at the University of Central Florida, demonstrating the ability to communicate qualifications and career goals in a formal written format.*
+*This cover letter was written as a sample professional document for ENC3241: Writing for the Technical Profession at the University of Central Florida, demonstrating the ability to communicate qualifications and career goals in a formal written format.*  
+
+---  
 
 Andrea Ritter  
 4000 Central Florida Boulevard
