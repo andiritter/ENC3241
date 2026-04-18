@@ -1,4 +1,3 @@
-<img width="1007" height="897" alt="unnamed" src="https://github.com/user-attachments/assets/346b4c9a-72fc-47cb-8fd8-840604b0e4f8" />
 ---
 layout: default
 title: Instructions
@@ -15,7 +14,9 @@ Small flathead screwdriver
 
 Steps:
 Step 1: Slide the small black knob on the silver underside of the key to open the front black panel of the key fob
-
+<p align="center">
+  <img width="500" alt="unnamed" src="https://github.com/user-attachments/assets/346b4c9a-72fc-47cb-8fd8-840604b0e4f8" />
+</p>
 Figure 1. Knob to access auxiliary key. (Source: Andrea Ritter)
 Step 2: Remove auxiliary key.
 Step 3: With screwdriver, press down the notch in the bottom right to begin separating the front from the rest of the fob.
