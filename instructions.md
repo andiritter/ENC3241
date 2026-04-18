@@ -17,8 +17,10 @@ Step 1: Slide the small black knob on the silver underside of the key to open th
 
 <p align="center">
   <img width="200" alt="unnamed" src="https://github.com/user-attachments/assets/346b4c9a-72fc-47cb-8fd8-840604b0e4f8" />
+  <br>
+  <sub>Figure 1. Knob to access auxiliary key. (Source: Andrea Ritter) </sub>
 </p>
-Figure 1. Knob to access auxiliary key. (Source: Andrea Ritter)  
+ 
 
 Step 2: Remove auxiliary key.  
 Step 3: With screwdriver, press down the notch in the bottom right to begin separating the front from the rest of the fob.  
