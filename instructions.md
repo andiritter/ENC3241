@@ -4,6 +4,7 @@ title: Instructions
 ---
 
 # Instructions
+*This instructional document was written for ENC3241: Writing for the Technical Profession at the University of Central Florida. It demonstrates the ability to communicate a multi-step process clearly and concisely for a general audience.*
 
 ### How to Change a Mazda CX-5 Key Fob Battery  
 
