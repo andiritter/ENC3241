@@ -4,6 +4,7 @@ title: Proposal
 ---
 
 # Proposal
+*This proposal was written for ENC3241: Writing for the Technical Profession at the University of Central Florida. It outlines a research project to develop a heat-aware walkability index for the UCF campus using LiDAR scanning and spatial data analysis. The content reflects my knowledge as a Data Science undergraduate and my interest in laser scanning applications, which I am exploring in Laser Scanning America's Past (AMH 4594H).*
 
 ## Developing a Heat-Aware Walkability Index Using Spatial and Environmental Data
  
