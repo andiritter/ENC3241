@@ -4,6 +4,7 @@ title: Resume
 ---
 
 # Resume
+*This resume was developed as part of ENC3241: Writing for the Technical Profession at the University of Central Florida. It reflects my current academic background, work experience, and skills as a Data Science student.*
 
 ## Andrea Kristina Ritter
  
