@@ -7,22 +7,15 @@ title: Cover Letter
 
 Andrea Ritter  
 4000 Central Florida Boulevard
+Orlando, FL 32816    
 
-Orlando, FL 32816
+Voloridge Health  
+110 Front Street, Suite 400  
+Jupiter, FL 33477  
 
+March 3, 2026  
 
-Voloridge Health
-
-110 Front Street, Suite 400
-
-Jupiter, FL 33477
-
-
-March 3, 2026
-
-
-Dear Recruiting Manager,
-
+Dear Recruiting Manager,  
 
 I am writing to apply for the Health Data Scientist position, which I found advertised online after first hearing of the company through its sponsorship of my university's Big Data Analytics Symposium.
 
@@ -36,6 +29,5 @@ I am excited for the opportunity to work under the President of Voloridge and fe
 Again, I am very interested in joining your organization and applying my technical knowledge to improve health outcomes. I am available to interview at your convenience. Thank you for your time and consideration.
 
 
-Sincerely,
-
+Sincerely,  
 Andrea Ritter
